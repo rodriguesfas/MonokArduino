@@ -6,7 +6,7 @@ Thema Arduino Monokai
 Monokai Arduino Theme
 ================
 
-Revised for Arduino version 1.6.6+, not tested with earlier versions.
+Revised for Arduino version 1.8.0+, not tested with earlier versions.
 
 \- \- \-
 
@@ -22,4 +22,4 @@ Released under [MIT]() - feel free to use but [please let me know](http://rodrig
 
 \- \- \-
 ####CREDITS
-jeffThompson[jeffThompson](https://github.com/jeffThompson/DarkArduinoTheme)
+[jeffThompson](https://github.com/jeffThompson/DarkArduinoTheme)
