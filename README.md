@@ -1,4 +1,4 @@
-# Theme-Arduino-MonokArduino
+# Theme from IDE Arduino - MonokArduino
 Thema Arduino MonokArduino
 ![screenshot](https://github.com/rodriguesfas/Theme-Arduino-Monokai/blob/master/screenshot.png)
 
