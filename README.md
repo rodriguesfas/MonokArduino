@@ -1,7 +1,5 @@
 # Theme-Arduino-Monokai
 Thema Arduino Monokai
-
-![screenshot](https://github.com/rodriguesfas/Theme-Arduino-Monokai/blob/master/img_theme_arduino_monokai.png)
 ![screenshot](https://github.com/rodriguesfas/Theme-Arduino-Monokai/blob/master/screenshot.png)
 
 Monokai Arduino Theme
