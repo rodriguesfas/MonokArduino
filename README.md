@@ -1,8 +1,8 @@
-# Theme-Arduino-Monokaiduino
-Thema Arduino Monokaiduino
+# Theme-Arduino-MonokArduino
+Thema Arduino MonokArduino
 ![screenshot](https://github.com/rodriguesfas/Theme-Arduino-Monokai/blob/master/screenshot.png)
 
-Monokaiduino Arduino Theme
+MonokArduino Arduino Theme
 ================
 
 Revised for Arduino version 1.8.0+, not tested with earlier versions.
